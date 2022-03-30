@@ -25,5 +25,5 @@ I'm a computer science student. I am very passionate about writing code, solving
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asadullah00alimran) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=al-asadullah-imran) 
 
